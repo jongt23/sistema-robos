@@ -2,6 +2,8 @@
 Puedes descargar nuestro manual completo en PDF desde el siguiente enlace:
 [Descargar Manual en PDF](https://drive.google.com/file/d/1jFVQJj1rndXKyV86GUX9SnZlAyyNgEoL/view?usp=sharing)
 
+# [🏪 Ir a la página del script](https://sistema-gestion-robos.tebex.io/category/3021331)
+
 
 # Sistema de Solicitud de Robos v4.1
 
