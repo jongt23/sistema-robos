@@ -1,3 +1,8 @@
+## 📄 Guía de Instalación Detallada (PDF)
+Puedes descargar nuestro manual completo en PDF desde el siguiente enlace:
+[Descargar Manual en PDF](https://drive.google.com/file/d/1jFVQJj1rndXKyV86GUX9SnZlAyyNgEoL/view?usp=sharing)
+
+
 # Sistema de Solicitud de Robos v4.1
 
 Este script para FiveM proporciona un sistema completo y avanzado para que los jugadores soliciten robos y la policía los gestione. Incluye requisitos dinámicos de policía, cooldowns, campos de información personalizados por robo y un sistema de auditoría completo a través de webhooks de Discord.
