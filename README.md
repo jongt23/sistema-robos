@@ -91,3 +91,35 @@ Aquí es donde defines cada robo disponible.
 5.  **Finalización:** Una vez el robo ha terminado, un policía usa `/policiaops` y pulsa "Finalizar".
 6.  **Resultado:** Se abre un modal que pregunta si se recuperó el botín. El policía elige "Sí" o "No".
 7.  **Registro Final:** El robo entra en cooldown. Se envía un último webhook a Discord notificando la **finalización** del operativo y el **resultado del botín** (✔️/❌).
+
+Ej: Hummane requiere saber el número de asaltantes y el armamento que usarán para ajustarse a ello.
+>![image](https://github.com/user-attachments/assets/ca52e068-55b2-44f7-9052-7e893dce0e45)
+>![image](https://github.com/user-attachments/assets/35baefb1-8b82-4e50-a22f-f70b1590bfbe)
+
+La parte POLICIAL verá esta información:
+>![image](https://github.com/user-attachments/assets/4157a6eb-a969-4058-aeef-8cf0d430a578)
+
+Si es autorizado la LSPD verá en el chat
+>![image](https://github.com/user-attachments/assets/7f351a42-4d63-42de-ad5f-3473c9af741a)
+
+Y en Discord se puede ver un registro, si se activa, como el siguiente ejemplo:
+>![image](https://github.com/user-attachments/assets/90f537d9-7641-4ce8-b943-a0b68e7bece3)
+
+El asaltante que solicitó el robo verá algo como esto:
+>![image](https://github.com/user-attachments/assets/f527f6cf-2396-47a1-8584-95e2487a4b0d)
+
+Si no se encuentra ONLINE cuando le aceptan un ROBO la LSPD lo sabrá y se cancelará, dejándolo libre para el resto de usuarios.
+
+Cuando un robo está en curso se ve de esta forma:
+>![image](https://github.com/user-attachments/assets/7d9ee152-639b-499d-a0d0-db0e8e83d105)
+
+Al terminar se indica si se recuperó el botín o no de esta forma:
+>![image](https://github.com/user-attachments/assets/56d41e53-2a88-44f0-a432-3d260eb4e375)
+
+Y si se tiene activado el webhook de Discord, se guardará un registro como el siguiente:
+>![image](https://github.com/user-attachments/assets/6f78f802-1942-4c98-a24d-5369673d1e08)
+
+[VÍDEO DEMOSTRATIVO - algunas nuevas funciones como campos adicionales y log en discord se han añadido a posteriori en las imágenes anteriores](https://www.youtube.com/watch?v=T9CL5uX9XqI)
+
+
+
